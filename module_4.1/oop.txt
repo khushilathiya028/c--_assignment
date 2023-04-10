@@ -1,0 +1,12 @@
+     :-> What is OOP? List OOP concepts.
+                           oop stands for object-oriented programmig. 
+                           procedural  programming is about writing procedural or functions that perform operations on the date, 
+                           while object-oriented progamming is about creating objects that contain both data and functions.
+
+                           there are six type of oop concepts :-
+                                1. class.
+                                2. object.
+                                3. inheritance.
+                                4. encapsulation.
+                                5. abstraction.
+                                6. polymorphism.      

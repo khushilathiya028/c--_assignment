@@ -1,0 +1,6 @@
+               :-> What is the difference between OOP and POP ?
+                                       in the difference between oop and pop, 
+                                       pop stands for procedure-oriented programming and is a programming strategy 
+                                       that focuses on procedural abstractions rather than datd.
+                                       opp stands for object-oriented programming and is a programming methood,
+                                       that focuses on data rather than the algorithm.
